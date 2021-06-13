@@ -1,0 +1,11 @@
+<% if (page.redirect) { %>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="0; URL=<%- page.redirect %>" />
+        <link rel="canonical" href="<%- page.redirect %>">
+        <title>Redirecting to <%- page.redirect %></title>
+    </head>
+    <body>
+        <p>Redirecting to <a href="<%- page.redirect %>"><%- page.redirect %></a>...</p>
+    </body>
+<% } %>

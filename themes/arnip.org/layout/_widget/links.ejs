@@ -3,7 +3,7 @@
         <hr class="margin-top margin-bottom" />
         <ul class="links">
             <% theme.links.forEach(function(item) { %>
-                <% if (is_current(item.url)) { %>
+                <% if (is_current(item.url, true)) { %>
                     <li class="nolink"><%- item.name %></li>
                 <% } else { %>
                     <li>

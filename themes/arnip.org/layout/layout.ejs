@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 
 <html lang="ja">
+<% if (page.redirect) { %>
+    <%- partial('./_partial/redirect') %>
+<% } else { %>
     <head>
         <meta charset="UTF-8" />
         <% if (config.author){ %><meta name="author" content="<%- config.author %>" /><% } %>
@@ -30,7 +33,7 @@
             <% if (theme.links) { %>
                 <ul id="navigation">
                     <% theme.links.filter(e => !e.hidden).forEach(function(item) { %>
-                        <% if (is_current(item.url)) { %>
+                        <% if (is_current(item.url, true)) { %>
                             <li class="current<% if (item.right) { %> right<% } %>"><%- item.name %></li>
                         <% } else { %>
                             <li<% if (item.right) { %> class="right"<% } %>>
@@ -55,4 +58,5 @@
             Copyright&copy; <%- (new Date()).getFullYear() %> <%- config.author %> / Project RISA. All Rights Reserved.
         </footer>
     </body>
+<% } %>
 </html>

@@ -1,6 +1,6 @@
 links:
   - name: Profile
-    url: /
+    url: /wp/
   - name: Contents
     url: /wp/contents.html
   - name: Blog
@@ -8,7 +8,7 @@ links:
   - name: Links
     url: /wp/links.html
   - name: English
-    url: /en/
+    url: /en/wp/index.html
     right: true
 
 widgets:
