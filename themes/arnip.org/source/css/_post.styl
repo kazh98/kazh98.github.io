@@ -34,11 +34,10 @@ h1, h2, h3, h4, h5, h6, hr
     clear: both
 
 
-p, ul, ol, dl
-    margin: 0px
-
-paragraphs = p ul ol
+paragraphs = p ul ol dl
 for e1 in paragraphs
+    {e1}
+        margin: 0px
     for e2 in paragraphs
         {e1} + {e2}
             margin-top: $font-size-default

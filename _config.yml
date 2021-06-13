@@ -11,6 +11,7 @@ author: Kazuhiro HISHINUMA
 language: ja
 timezone:
 include:
+  - ".nojekyll"
   - ".htaccess"
 
 # URL
@@ -55,6 +56,6 @@ html_minifier:
   exclude:
 
 sitemap:
-  path: sitemap.xml
+  path: wp/sitemap.xml
   tag: false
   category: false
