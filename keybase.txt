@@ -1,0 +1,52 @@
+https://keybase.io/kazh98
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://arnip.org
+  * I am kazh98 (https://keybase.io/kazh98) on keybase.
+  * I have a public key ASAV9NQS5znDJZ-wXfMT6cfgElG3Wcce0mx20TJuBgAVwAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012015f4d412e739c3259fb05df313e9c7e01251b759c71ed26c76d1326e060015c00a",
+      "host": "keybase.io",
+      "kid": "012015f4d412e739c3259fb05df313e9c7e01251b759c71ed26c76d1326e060015c00a",
+      "uid": "5c2437238bca54b6eba696cacc5ff219",
+      "username": "kazh98"
+    },
+    "merkle_root": {
+      "ctime": 1505699060,
+      "hash": "c41486199518e2ca71c8625581cd2d0dea4bf66e798af522df659d7cd697dba6313ab0fdd852c0b819f2faeb36b8611355fbbd4ac0799d6009b01214aec32a4d",
+      "hash_meta": "0e714c4431242e0d94a1d1f44c2007832ccf7eef18632e6a241c7083fcc5ed1b",
+      "seqno": 1393983
+    },
+    "service": {
+      "hostname": "arnip.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.30"
+  },
+  "ctime": 1505699064,
+  "expire_in": 504576000,
+  "prev": "5cf02e51d1af51ba3c49373ef98cd4edff8f9e3ba78107310b5131e1b38383a5",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFfTUEuc5wyWfsF3zE+nH4BJRt1nHHtJsdtEybgYAFcAKp3BheWxvYWTFA0B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMTVmNGQ0MTJlNzM5YzMyNTlmYjA1ZGYzMTNlOWM3ZTAxMjUxYjc1OWM3MWVkMjZjNzZkMTMyNmUwNjAwMTVjMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTVmNGQ0MTJlNzM5YzMyNTlmYjA1ZGYzMTNlOWM3ZTAxMjUxYjc1OWM3MWVkMjZjNzZkMTMyNmUwNjAwMTVjMDBhIiwidWlkIjoiNWMyNDM3MjM4YmNhNTRiNmViYTY5NmNhY2M1ZmYyMTkiLCJ1c2VybmFtZSI6Imthemg5OCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNTY5OTA2MCwiaGFzaCI6ImM0MTQ4NjE5OTUxOGUyY2E3MWM4NjI1NTgxY2QyZDBkZWE0YmY2NmU3OThhZjUyMmRmNjU5ZDdjZDY5N2RiYTYzMTNhYjBmZGQ4NTJjMGI4MTlmMmZhZWIzNmI4NjExMzU1ZmJiZDRhYzA3OTlkNjAwOWIwMTIxNGFlYzMyYTRkIiwiaGFzaF9tZXRhIjoiMGU3MTRjNDQzMTI0MmUwZDk0YTFkMWY0NGMyMDA3ODMyY2NmN2VlZjE4NjMyZTZhMjQxYzcwODNmY2M1ZWQxYiIsInNlcW5vIjoxMzkzOTgzfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFybmlwLm9yZyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMwIn0sImN0aW1lIjoxNTA1Njk5MDY0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjVjZjAyZTUxZDFhZjUxYmEzYzQ5MzczZWY5OGNkNGVkZmY4ZjllM2JhNzgxMDczMTBiNTEzMWUxYjM4MzgzYTUiLCJzZXFubyI6MTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA/IY98FcbhUAW2Fxnn9tcw/RpKbCCCGUAqVOL//UquCU2qynuRsrkuWWAH6oVS9z5dm4DtEcEDXebXUYFd0YKAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGpWmXBhxx0OMC5aMkdOTDEeZGimcwZWWAUSbf3bErAeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kazh98
