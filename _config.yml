@@ -16,7 +16,7 @@ include:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://arnip.org/
+url: https://www.arnip.org/
 root: /
 permalink: :year:month-:title.html
 permalink_defaults:
