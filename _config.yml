@@ -1,0 +1,60 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: arnip.org
+subtitle: Kazuhiro HISHINUMA, DSc.
+description: 菱沼和弘の研究に関する情報を紹介します。
+keywords: 菱沼和弘,Kazuhiro HISHINUMA,数理最適化,Mathematical Optimization,不動点理論,Fixed Point Theory
+author: Kazuhiro HISHINUMA
+language: ja
+timezone:
+include:
+  - ".htaccess"
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://arnip.org/
+root: /
+permalink: :year:month-:title.html
+permalink_defaults:
+
+# Directory
+source_dir: source
+public_dir: public
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :year:month-:title.md # File name of new posts
+default_layout: post
+titlecase: false # Transform title into titlecase
+external_link: true # Open external links in new tab
+filename_case: 0
+render_drafts: false
+post_asset_folder: true
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace:
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: arnip.org
+
+clean_css:
+  exclude:
+
+html_minifier:
+  exclude:
+
+sitemap:
+  path: sitemap.xml
+  tag: false
+  category: false

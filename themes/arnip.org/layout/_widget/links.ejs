@@ -1,0 +1,16 @@
+<% if (theme.links) { %>
+    <div class="sidebar__item">
+        <hr class="margin-top margin-bottom" />
+        <ul class="links">
+            <% theme.links.forEach(function(item) { %>
+                <% if (is_current(item.url)) { %>
+                    <li class="nolink"><%- item.name %></li>
+                <% } else { %>
+                    <li>
+                        <a href="<%- url_for(item.url) %>"><%- item.name %></a>
+                    </li>
+                <% } %>
+            <% }) %>
+        </ul>
+    </div>
+<% } %>

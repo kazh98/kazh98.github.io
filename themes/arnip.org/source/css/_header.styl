@@ -1,0 +1,87 @@
+@require "_common"
+
+
+header
+    font-family: sans-serif
+    background-image:
+        linear-gradient(.25turn, $border-color 1px, transparent 0),
+        linear-gradient($border-color 1px, transparent 0)
+    background-size: 12px 12px
+    background-position: center
+    color: $foreground-color
+    border: solid 1px $border-color
+
+    > a:link, > a:visited
+        background-image: linear-gradient(.25turn,
+            rgba(255, 255, 255, 0.8) 0%,
+            rgba(255, 255, 255, 0.6) 70%,
+            rgba(255, 255, 255, 0) 100%)
+        display: block
+        text-decoration: none
+        color: inherit
+        padding: 0.3em 0.8em
+
+    #title
+        font-size: 2em
+        font-weight: bold
+
+    #subtitle
+        font-size: 1.3em
+        font-style: italic
+
+        @media screen and (max-width: ($mobile-threshold - 1px))
+            display: block
+
+    #subtitle:before
+        content: "/"
+        margin-left: 0.3em
+        margin-right: 0.3em
+
+
+ul#navigation
+    display: block
+    margin: -1px 0px 0px 0px
+    padding: 0px
+    border: solid 1px $border-color
+    background-color: $foreground-color
+    color: $background-color
+    font-family: sans-serif
+    font-weight: bold
+
+    > li
+        display: inline-block
+        margin: 0px
+        padding: 0px
+        width: ($font-size-default * 8)
+        border-right: solid 1px $border-color
+        text-align: center
+        line-height: ($font-size-default * 2)
+
+        > a:link,
+        > a:visited
+            display: block
+            width: 100%
+            height: 100%
+            text-decoration: none
+            color: inherit
+
+        > a:hover
+            background-color: $background-color
+            color: $foreground-color
+    
+        &.current
+            background-color: $background-color
+            color: $foreground-color
+
+        &.right
+            border-right: none
+            border-left: solid 1px $border-color
+            float: right
+    
+    + *
+        clear: both
+
+
+@media screen and (max-width: ($mobile-threshold - 1px))
+    ul#navigation
+        display: none

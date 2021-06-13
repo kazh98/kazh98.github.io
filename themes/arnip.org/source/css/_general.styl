@@ -1,0 +1,22 @@
+@require "_common"
+
+
+body
+    margin: 0px
+    padding: 0px
+    font-size: $font-size-default
+
+
+footer
+    font-family: 'Times New Roman', serif
+    font-style: italic
+    font-size: $font-size-small
+    
+    @media screen and (min-width: $mobile-threshold)
+        border-top: solid 1px $border-color
+        width: $container-width
+        margin: $font-size-default auto 0px auto
+        text-align: right
+
+    @media screen and (max-width: ($mobile-threshold - 1px))
+        text-align: center

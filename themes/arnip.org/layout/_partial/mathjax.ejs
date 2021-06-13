@@ -1,0 +1,19 @@
+<% if (page.math) { %>
+    <% var mathjax_url = (theme.mathjax && theme.mathjax.url) || "https://arnip.org/wp-lib/mathjax/tex-chtml.js"; %>
+    <script type="text/javascript">
+        MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']],
+                processEscapes: true
+            },
+            svg: {
+                fontCache: 'global'
+            }
+        };
+    </script>
+    <% if (theme.mathjax && theme.mathjax.polyfill) { %>
+        <script src="<%- theme.mathjax.polyfill %>"></script>
+    <% } %>
+    <script type="text/javascript" src="<%- mathjax_url %>" id="MathJax-script" async="async"></script>
+<% } %>

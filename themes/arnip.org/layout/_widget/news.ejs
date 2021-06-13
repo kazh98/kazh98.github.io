@@ -1,0 +1,6 @@
+<% site.pages.data.filter(e => e.source == 'wp/news.md').forEach(function(page) { %>
+    <div class="sidebar__item">
+        <div class="sidebar__title"><%- page.title %></div>
+        <%- page.content %>
+    </div>
+<% }) %>

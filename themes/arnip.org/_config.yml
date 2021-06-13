@@ -1,0 +1,21 @@
+links:
+  - name: Profile
+    url: /
+  - name: Contents
+    url: /wp/contents.html
+  - name: Blog
+    url: https://blog.arnip.org
+  - name: Links
+    url: /wp/links.html
+  - name: English
+    url: /en/
+    right: true
+
+widgets:
+  - news
+  - links
+  - validators
+
+mathjax:
+  url: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  polyfill: https://polyfill.io/v3/polyfill.min.js?features=es6

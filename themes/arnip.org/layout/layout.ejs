@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8" />
+        <% if (config.author){ %><meta name="author" content="<%- config.author %>" /><% } %>
+        <% if (config.keywords && is_current('/')){ %><meta name="keywords" content="<%- config.keywords %>" /><% } %>
+        <% if (config.description && is_current('/')){ %><meta name="description" content="<%- config.description %>" /><% } %>
+        <% if (config.author){ %><meta name="author" content="<%- config.author %>" /><% } %>
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <%- css('css/style20201025') %>
+        <%- partial('./_partial/mathjax') %>
+        <% var title = config.title;
+        if (!is_current('/') && page.title) {
+            title = page.title + " - " + title;
+        }
+        %>
+        <title><%- title %></title>
+    </head>
+    <body>
+        <div id="container">
+            <header>
+                <a href="<%- url_for() %>">
+                    <span id="title"><%- config.title %></span>
+                    <% if (config.subtitle) { %>
+                        <span id="subtitle"><%- config.subtitle %></span>
+                    <% } %>
+                </a>
+            </header>
+            <% if (theme.links) { %>
+                <ul id="navigation">
+                    <% theme.links.filter(e => !e.hidden).forEach(function(item) { %>
+                        <% if (is_current(item.url)) { %>
+                            <li class="current<% if (item.right) { %> right<% } %>"><%- item.name %></li>
+                        <% } else { %>
+                            <li<% if (item.right) { %> class="right"<% } %>>
+                                <a href="<%- url_for(item.url) %>"><%- item.name %></a>
+                            </li>
+                        <% } %>
+                    <% }) %>
+                </ul>
+            <% } %>
+            <div id="main">
+                <div id="contents">
+                    <%- body %>
+                </div>
+                <div id="sidebar">
+                    <% theme.widgets.forEach(function(widget) { %>
+                        <%- partial('./_widget/' + widget) %>
+                    <% }) %>
+                </div>
+            </div>
+        </div>
+        <footer>
+            Copyright&copy; <%- (new Date()).getFullYear() %> <%- config.author %> / Project RISA. All Rights Reserved.
+        </footer>
+    </body>
+</html>
