@@ -10,116 +10,8 @@
     
     
     <url>
-        <loc>https://www.arnip.org/wp/contents.html</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/environments.html</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/environments.old.html</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/links.html</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/news.html</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/ladr/chap02.html</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/ladr/</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/ladr/status.html</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/mira/chap01.html</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/mira/</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://www.arnip.org/wp/ladr/chap01.html</loc>
-        <lastmod>2021-07-11T01:48:18.813Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    
-    
-    <url>
         <loc>https://www.arnip.org/google92ee97a8fb15e02e.html</loc>
-        <lastmod>2021-07-11T01:48:18.809Z</lastmod>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -128,7 +20,7 @@
     
     <url>
         <loc>https://www.arnip.org/</loc>
-        <lastmod>2021-07-11T01:48:18.809Z</lastmod>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -137,7 +29,7 @@
     
     <url>
         <loc>https://www.arnip.org/mocs5th/</loc>
-        <lastmod>2021-07-11T01:48:18.809Z</lastmod>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -146,7 +38,115 @@
     
     <url>
         <loc>https://www.arnip.org/summer2016/</loc>
-        <lastmod>2021-07-11T01:48:18.809Z</lastmod>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/contents.html</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/environments.html</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/environments.old.html</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/links.html</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/news.html</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/ladr/chap02.html</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/ladr/</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/ladr/status.html</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/mira/chap01.html</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/mira/</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://www.arnip.org/wp/ladr/chap01.html</loc>
+        <lastmod>2021-07-11T01:53:17.956Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -155,7 +155,7 @@
     
     <url>
         <loc>https://www.arnip.org/en/wp/</loc>
-        <lastmod>2021-07-11T01:48:18.809Z</lastmod>
+        <lastmod>2021-07-11T01:53:17.952Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
