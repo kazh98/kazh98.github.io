@@ -114,8 +114,7 @@ Nov. 2015
 
 
 ## Association Memberships
-[the Operations Research Society of Japan](http://www.orsj.or.jp/),
-[Information Processing Society of Japan](http://www.ipsj.or.jp/).
+[the Operations Research Society of Japan](http://www.orsj.or.jp/).
 
 
 Contact

@@ -188,8 +188,7 @@ PGP Fingerprint: `A727 49D2 FB40 D03B CDEE  5238 0CA0 0D36 2CD0 E49A`
 
 所属学協会
 ----------
-[日本オペレーションズ・リサーチ学会](http://www.orsj.or.jp/),
-[情報処理学会](http://www.ipsj.or.jp/).
+[日本オペレーションズ・リサーチ学会](http://www.orsj.or.jp/).
 
 
 連絡先
