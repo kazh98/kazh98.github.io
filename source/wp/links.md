@@ -34,11 +34,19 @@ title: Links
 
 ---
 
+[一般社団法人 日本ハッカー協会](https://www.hacker.or.jp/association/)
+: コンピュータエンジニアの協会です。　菱沼は、日本ハッカー協会にハッカー登録をしています。
+
+---
+
 [Bruichladdich Distillery](http://bruichladdich.com)
 : スコットランドのアイラ島にあるウィスキーの蒸留所です。
 
 [Laphroaig](https://www.laphroaig.com)
 : スコットランドのアイラ島にあるウィスキーの蒸留所です。　菱沼は、Friends of Laphroaig の会員として蒸留所内の１区画のlifetime lease を受けています。
+
+[戸田覚：ガジェット【辛口】点数評価](https://www.youtube.com/c/todasatoru)
+: ビジネス書作家 戸田覚さんのYouTube チャンネルです。　最新のデジタルガジェットに関して毎日紹介動画を投稿されています。
 
 [藤木屋](https://fujikiya-kimono.com/)
 : 東京・上野にある男性用着物専門店です。

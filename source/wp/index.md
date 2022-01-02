@@ -79,7 +79,7 @@ PGP Fingerprint: `A727 49D2 FB40 D03B CDEE  5238 0CA0 0D36 2CD0 E49A`
 8. K. Hishinuma, H. Iiduka: Fixed Point Quasiconvex Subgradient Method, European Journal of Operational Research, Vol. 282, Issue 2, pp. 428-437, 2020. [[DOI](https://doi.org/10.1016/j.ejor.2019.09.037)]
 9. K. Shimizu, K. Hishinuma, H. Iiduka: Parallel Computing Proximal Method for Nonsmooth Convex Optimization With Fixed Point Constraints of Quasi-nonexpansive Mappings, Applied Set-Valued Analysis and Optimization, Vol. 2, Issue 1, pp. 1-17, 2020. [[Open Access](http://dx.doi.org/10.23952/asvao.2.2020.1.01)]
 10. K. Hishinuma, H. Iiduka: Efficiency of Inexact Fixed Point Quasiconvex Subgradient Method, Linear and Nonlinear Analysis, Vol. 6, No. 1, pp. 35-48, 2020 [[Open Access](http://yokohamapublishers.jp/online2/oplna/vol6/p35.html)]
-11. K. Hishinuma, H. Iiduka: Evaluation of Fixed Point Quasiconvex Subgradient Method with Computational Inexactness, Pure and Applied Functional Analysis: Special Issue on Optimization Theory dedicated to Terry Rockafellar on the occasion of his 85th birthday, (to appear). [[PDF](https://iiduka.net/_media/iiduka/pafa2020.pdf)]
+11. K. Hishinuma, H. Iiduka: Evaluation of Fixed Point Quasiconvex Subgradient Method with Computational Inexactness, Pure and Applied Functional Analysis: Special Issue on Optimization Theory dedicated to Terry Rockafellar on the occasion of his 85th birthday, Vol. 6, No. 6, pp. 1303-316, 2021. [[Open Access](http://yokohamapublishers.jp/online2/oppafa/vol6/p1303.html)]
 
 
 ## 紀要・講究録
@@ -91,7 +91,7 @@ PGP Fingerprint: `A727 49D2 FB40 D03B CDEE  5238 0CA0 0D36 2CD0 E49A`
 
 ## 講演・口頭発表等
 1. K. Hishinuma, H. Iiduka: Parallel Algorithm for Nonsmooth Convex Optimization, the International Workshop on Nonlinear Analysis and Convex Analysis, 2014.
-2. 菱沼 和弘, 飯塚 秀明: 非平滑で凸な目的関数に対する最適化の並列計算, 日本オペレーションズ・リサーチ学会 2014年秋季研究発表会, 2014. [[CiNii](http://ci.nii.ac.jp/naid/110009845008)]
+2. 菱沼 和弘, 飯塚 秀明: 非平滑で凸な目的関数に対する最適化の並列計算, 日本オペレーションズ・リサーチ学会 2014年秋季研究発表会, 2014.
 3. 菱沼 和弘, 飯塚 秀明: 並列型劣勾配法の収束効率を改善させるための直線探索に基づくアプローチ, 日本オペレーションズ・リサーチ学会 2016年秋季研究発表会, 2016.
 4. K. Hishinuma, H. Iiduka: Flexible stepsize selection of subgradient methods for constrained convex optimization, the 10th Anniversary Conference on Nonlinear Analysis and Convex Analysis, 2017.
 5. 菱沼 和弘, 飯塚 秀明: 不動点制約付き準凸最小化問題に対する準劣勾配法, 京都大学数理解析研究所研究集会《数理最適化の発展：モデル化とアルゴリズム》, 京都大学数理解析研究所, 2017.

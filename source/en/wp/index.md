@@ -40,7 +40,7 @@ Mar. 2020
 8. K. Hishinuma, H. Iiduka: Fixed Point Quasiconvex Subgradient Method, European Journal of Operational Research, Vol. 282, Issue 2, pp. 428-437, 2020. [[DOI](https://doi.org/10.1016/j.ejor.2019.09.037)]
 9. K. Shimizu, K. Hishinuma, H. Iiduka: Parallel Computing Proximal Method for Nonsmooth Convex Optimization With Fixed Point Constraints of Quasi-nonexpansive Mappings, Applied Set-Valued Analysis and Optimization, Vol. 2, Issue 1, pp. 1-17, 2020. [[Open Access](http://dx.doi.org/10.23952/asvao.2.2020.1.01)]
 10. K. Hishinuma, H. Iiduka: Efficiency of Inexact Fixed Point Quasiconvex Subgradient Method, Linear and Nonlinear Analysis, Vol. 6, No. 1, pp. 35-48, 2020 [[Open Access](http://www.ybook.co.jp/online2/oplna/vol6/p35.html)]
-11. K. Hishinuma, H. Iiduka: Evaluation of Fixed Point Quasiconvex Subgradient Method with Computational Inexactness, Pure and Applied Functional Analysis: Special Issue on Optimization Theory dedicated to Terry Rockafellar on the occasion of his 85th birthday, (to appear). [[PDF](https://iiduka.net/_media/iiduka/pafa2020.pdf)]
+11. K. Hishinuma, H. Iiduka: Evaluation of Fixed Point Quasiconvex Subgradient Method with Computational Inexactness, Pure and Applied Functional Analysis: Special Issue on Optimization Theory dedicated to Terry Rockafellar on the occasion of his 85th birthday, Vol. 6, No. 6, pp. 1303-316, 2021. [[Open Access](http://yokohamapublishers.jp/online2/oppafa/vol6/p1303.html)]
 
 
 ## Proceedings
