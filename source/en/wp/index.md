@@ -77,6 +77,9 @@ Mar. 2015
 
 
 ## Licenses
+Jan. 2023
+: Book-Keeping Test (3rd class), Nissho, Japan.
+
 Dec. 2019
 : Applied Information Technology Engineer, Information-technology Promotion Agency (IPA), Japan.
 
