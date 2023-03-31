@@ -1,19 +1,60 @@
 @require "_common"
 
 
+html
+    overflow-y: scroll
+
+body
+    background-color: $background-color
+    color: $foreground-color
+body.sitetop
+    text-align: center
+
+
 @media screen and (min-width: $mobile-threshold)
     #container
         width: $container-width
         margin: 0px auto
 
-    #main
-        display: flex
-        flex-direction: row
-        flex-flow: row-reverse
+
+nav > ul
+    display: inline
+    margin: 0px
+    padding: 0px
+
+    li
+        display: inline
+        margin: 0px 0px 0px ($font-size-default / 2)
+        padding: 0px
+
+
+#container
+    font-size: $font-size-default
+    padding: ($font-size-default / 2)
+    line-height: 1.5
+    clear: both
+    overflow: hidden
+
+    :first-child
+        margin-top: 0px
+
+    p:last-child
+        margin-bottom: 0px
 
     #contents
-        flex: 1
-        overflow: hidden
+        margin: 0px ($font-size-default / 2)
 
-    #sidebar
-        width: 180px
+
+footer
+    font-family: 'Times New Roman', serif
+    font-style: italic
+    font-size: $font-size-small
+    
+    @media screen and (min-width: $mobile-threshold)
+        border-top: solid 1px $border-color
+        width: $container-width
+        margin: $font-size-default auto 0px auto
+        text-align: right
+
+    @media screen and (max-width: ($mobile-threshold - 1px))
+        text-align: center

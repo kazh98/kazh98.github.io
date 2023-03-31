@@ -1,2 +1,3 @@
-redirect: /wp/index.html
+title: arnip.org トップページ
 ---
+ようこそ、arnip.org へ

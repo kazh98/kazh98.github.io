@@ -1,0 +1,13 @@
+<h2>Contents</h2>
+<nav><dl>
+    <% theme.links.filter(e => !e.hidden).forEach(function(item) { %>
+        <% if (!is_current(item.url, true)) { %>
+            <div>
+                <dt>
+                    <a href="<%- url_for(item.url) %>"><%- item.name %></a>
+                </dt>
+                <% if (item.desc) { %><dd><%- item.desc %></dd><% } %>
+            </div>
+        <% } %>
+    <% }) %>
+</dl></nav>

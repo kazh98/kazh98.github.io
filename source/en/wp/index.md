@@ -8,7 +8,7 @@ Doctor of Science (DSc) (Meiji University).
 mailto: kazuhiro@shikon.meiji.ac.jp ([keybase](https://keybase.io/kazh98))  
 PGP Fingerprint: `A727 49D2 FB40 D03B CDEE  5238 0CA0 0D36 2CD0 E49A`
 
-"My goal is to have *four* powers: mathematics, computer science, research, and development."
+[My profile in Japanese.](/wp/index.html)
 
 ## Academic & Professional Experience
 Apr. 2017-Mar. 2020

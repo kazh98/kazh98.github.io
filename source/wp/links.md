@@ -1,22 +1,13 @@
 title: Links
 ---
 
-[{% img center /wp/images/takahashi_hishinuma.jpg 240 180 '"高橋渉先生と菱沼 (NACA-ICOTA2019 にて)"' %}](http://www.sci.keio.ac.jp/member/detail.php?eid=00119)
-
-[高橋渉先生ウェブページ](http://www.sci.keio.ac.jp/member/detail.php?eid=00119)
-: 慶應義塾大学 自然科学研究教育センター 高橋渉先生のウェブページです。　高橋渉先生は、菱沼が学生の時の指導教員の飯塚秀明先生が学生の時の指導教官です。
-
-[横浜図書](http://yokohamapublishers.jp)
-: 数学の専門書を刊行している出版社です。
-
----
-
 [{% img center /wp/images/iiduka_hishinuma.jpg 240 180 '"飯塚研究室のメンバーと菱沼 (NAO2018 にて)"' %}](https://iiduka.net)
 
 [明治大学 飯塚秀明研究室](http://iiduka.net)
 : 明治大学で最適化理論とその数理情報工学への応用に関する研究をされている、飯塚秀明先生の研究室ウェブサイトです。　飯塚秀明先生は、菱沼が学生の時の指導教員であり、また菱沼が日本学術振興会特別研究員の時の受入研究者です。
 
----
+[横浜図書](http://yokohamapublishers.jp)
+: 数学の専門書を刊行している出版社です。
 
 ---
 

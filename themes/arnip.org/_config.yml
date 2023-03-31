@@ -1,17 +1,16 @@
 links:
+  - name: Top
+    desc: トップページです。
+    url: /index.html
   - name: Profile
-    url: /wp/
+    desc: このサイトの管理人のプロフィールです。
+    url: /wp/index.html
   - name: Contents
+    desc: サイトコンテンツを紹介します。
     url: /wp/contents.html
   - name: Links
+    desc: 関連サイトへのリンク集です。
     url: /wp/links.html
-  - name: English
-    url: /en/wp/index.html
-    right: true
-
-widgets:
-  - links
-  - validators
 
 mathjax:
   url: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
