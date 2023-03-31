@@ -14,5 +14,5 @@ ExpiresDefault                "access plus 28 days"
 </IfModule>
 
 <FilesMatch "\.html$">
-    Header set Link "</wp/css/style20210711.css>; as=style; rel=prefetch"
+    Header set Link "</wp/css/style20230401.css>; as=style; rel=prefetch"
 </FilesMatch>
