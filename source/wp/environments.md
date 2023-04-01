@@ -38,11 +38,9 @@ title: Computing Environments
   - To host my website: [SAKURA Internet Rental Server Service](https://www.sakura.ne.jp)
   - As my e-mail inbox: [Meiji University Alumni E-mail](https://www.meiji-shikon.net/?p=5045)
   - As an online storage: [OneDrive](https://www.microsoft.com/ja-jp/microsoft-365/onedrive/online-cloud-storage) / [Microsoft 365](https://www.microsoft.com/ja-JP/microsoft-365)
-  - As an input method editor: [ATOK Passport](https://www.justsystems.com/jp/products/atok-passport/)
-  - As an password manager: [Kaspersky Password Manager](https://www.kaspersky.co.jp)
 
 ## Computers which I used to use before
-  - [Microsoft Surface Pro (5th gen)](environments.old.html#microsoft-surface-pro-5th-gen)
+  - Microsoft Surface Pro (5th gen)
   - Apple MacBook Pro 13inch (Mid 2010)
   - NEC LaVie L LL350/BD
   - NEC VALUESTAR F VF700/7D

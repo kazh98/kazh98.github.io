@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 
 <html lang="ja">
-<% if (page.redirect) { %>
-    <%- partial('./_partial/redirect') %>
-<% } else { %>
     <head>
         <meta charset="UTF-8" />
         <% if (config.author){ %><meta name="author" content="<%- config.author %>" /><% } %>
@@ -11,7 +8,7 @@
         <% if (config.description && is_current('/')){ %><meta name="description" content="<%- config.description %>" /><% } %>
         <% if (config.author){ %><meta name="author" content="<%- config.author %>" /><% } %>
         <meta name="viewport" content="width=device-width,initial-scale=1" />
-        <%- css('css/style20210711') %>
+        <%- css('css/style20230401') %>
         <%- partial('./_partial/mathjax') %>
         <% var title = config.title;
         if (!is_current('/') && page.title) {
@@ -20,43 +17,33 @@
         %>
         <title><%- title %></title>
     </head>
-    <body>
+    <body<% if (is_current('/')) { %> class="sitetop"<% } %>>
         <div id="container">
-            <header>
-                <a href="<%- url_for('/wp/') %>">
-                    <span id="title"><%- config.title %></span>
-                    <% if (config.subtitle) { %>
-                        <span id="subtitle"><%- config.subtitle %></span>
-                    <% } %>
-                </a>
-            </header>
-            <% if (theme.links) { %>
-                <ul id="navigation">
+            <% if (page.titleimg) { %>
+                <h1 class="titleimg"><img src="<%- page.titleimg %>" alt="<%- page.title %>" /></h1>
+            <% } else { %>
+                <h1><%- page.title %></h1>
+            <% } %>
+            <% if (!is_current('/') && theme.links && !page.hidenav) { %>
+                <nav><strong>Menu: </strong><ul>
                     <% theme.links.filter(e => !e.hidden).forEach(function(item) { %>
                         <% if (is_current(item.url, true)) { %>
-                            <li class="current<% if (item.right) { %> right<% } %>"><%- item.name %></li>
+                            <li><%- item.name %></li>
                         <% } else { %>
-                            <li<% if (item.right) { %> class="right"<% } %>>
+                            <li>
                                 <a href="<%- url_for(item.url) %>"><%- item.name %></a>
                             </li>
                         <% } %>
                     <% }) %>
-                </ul>
+                </ul></nav>
             <% } %>
-            <div id="main">
-                <div id="contents">
-                    <%- body %>
-                </div>
-                <div id="sidebar">
-                    <% theme.widgets.forEach(function(widget) { %>
-                        <%- partial('./_widget/' + widget) %>
-                    <% }) %>
-                </div>
+            <div id="contents">
+                <%- body %>
+                <% if (is_current('/')) { %><%- partial("./_partial/sitetop"); %><% } %>
             </div>
         </div>
         <footer>
             Copyright&copy; <%- (new Date()).getFullYear() %> <%- config.author %> / Project RISA. All Rights Reserved.
         </footer>
     </body>
-<% } %>
 </html>

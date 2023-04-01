@@ -8,7 +8,7 @@ title: '菱沼 和弘 (Hishinuma, K.)'
 mailto: kazuhiro@shikon.meiji.ac.jp ([keybase](https://keybase.io/kazh98))  
 PGP Fingerprint: `A727 49D2 FB40 D03B CDEE  5238 0CA0 0D36 2CD0 E49A`
 
-「数学と情報科学、そして研究力と実現力の、４輪駆動を目指す」
+[My profile in English.](/en/wp/index.html)
 
 
 ## 経歴
