@@ -40,7 +40,7 @@ title: Computing Environments
   - As an online storage: [OneDrive](https://www.microsoft.com/ja-jp/microsoft-365/onedrive/online-cloud-storage) / [Microsoft 365](https://www.microsoft.com/ja-JP/microsoft-365)
 
 ## Computers which I used to use before
-  - [Microsoft Surface Pro (5th gen)](environments.old.html#microsoft-surface-pro-5th-gen)
+  - Microsoft Surface Pro (5th gen)
   - Apple MacBook Pro 13inch (Mid 2010)
   - NEC LaVie L LL350/BD
   - NEC VALUESTAR F VF700/7D
