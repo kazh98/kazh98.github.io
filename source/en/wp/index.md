@@ -14,8 +14,11 @@ PGP Fingerprint: `A727 49D2 FB40 D03B CDEE  5238 0CA0 0D36 2CD0 E49A`
 Apr. 2017-Mar. 2020
 : Research Fellow of Japan Society for the Promotion of Science.
 
-Apr. 2020-
-: Work for a private enterprise.
+Apr. 2020-Mar. 2023
+: Working at a private enterprise.
+
+Apr. 2023-
+: Assistant Manager at a private enterprise.
 
 
 ## Education
