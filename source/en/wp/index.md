@@ -3,10 +3,8 @@ title: 'Kazuhiro HISHINUMA'
 
 {% img float-left /wp/images/khishinuma2.jpg 150 200 '"Dr. Kazuhiro HISHINUMA"' %}
 
-Doctor of Science (DSc) (Meiji University).
-
-mailto: kazuhiro@shikon.meiji.ac.jp ([keybase](https://keybase.io/kazh98))  
-PGP Fingerprint: `A727 49D2 FB40 D03B CDEE  5238 0CA0 0D36 2CD0 E49A`
+Doctor of Science (DSc) (Meiji University).  
+mailto: kazuhiro@shikon.meiji.ac.jp
 
 [My profile in Japanese.](/wp/index.html)
 
