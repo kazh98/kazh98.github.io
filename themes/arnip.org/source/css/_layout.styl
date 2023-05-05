@@ -6,9 +6,20 @@ html
 
 body
     background-color: $background-color
+    background-image: radial-gradient($backaccent-color 30%, transparent 30%), radial-gradient($backaccent-color 30%, transparent 30%)
+    background-position: 0 0, 24px 24px
+    background-repeat: repeat
+    background-size: 48px 48px
     color: $foreground-color
 body.sitetop
     text-align: center
+
+html, body
+    margin: 0px
+    padding: 0px
+
+html, body
+    height: 100vh
 
 
 @media screen and (min-width: $mobile-threshold)
@@ -27,34 +38,43 @@ nav > ul
         margin: 0px 0px 0px ($font-size-default / 2)
         padding: 0px
 
-
 #container
+    background-color: $background-color
     font-size: $font-size-default
-    padding: ($font-size-default / 2)
     line-height: 1.5
     clear: both
     overflow: hidden
+    min-height: 100%
 
-    :first-child
-        margin-top: 0px
+    > :first-child
+        margin-top: $font-size-default
 
     p:last-child
         margin-bottom: 0px
 
-    #contents
-        margin: 0px ($font-size-default / 2)
+    @media screen and (min-width: $mobile-threshold)
+        border-left: solid 1px $backborder-color;
+        border-right: solid 1px $backborder-color;
 
+#container > *
+    @media screen and (min-width: $mobile-threshold)
+        margin-left: $font-size-default
+        margin-right: $font-size-default
+
+    @media screen and (max-width: ($mobile-threshold - 1px))
+        margin-left: ($font-size-default / 2)
+        margin-right: ($font-size-default / 2)
 
 footer
+    border-top: solid 1px $border-color
     font-family: 'Times New Roman', serif
     font-style: italic
     font-size: $font-size-small
     
     @media screen and (min-width: $mobile-threshold)
-        border-top: solid 1px $border-color
-        width: $container-width
-        margin: $font-size-default auto 0px auto
+        margin-top: ($font-size-default * 2)
         text-align: right
 
     @media screen and (max-width: ($mobile-threshold - 1px))
+        margin-top: ($font-size-default / 2)
         text-align: center

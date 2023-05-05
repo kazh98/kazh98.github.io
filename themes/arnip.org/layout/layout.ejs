@@ -8,7 +8,7 @@
         <% if (config.description && is_current('/')){ %><meta name="description" content="<%- config.description %>" /><% } %>
         <% if (config.author){ %><meta name="author" content="<%- config.author %>" /><% } %>
         <meta name="viewport" content="width=device-width,initial-scale=1" />
-        <%- css('css/style20230401') %>
+        <%- css('css/style20230505') %>
         <%- partial('./_partial/mathjax') %>
         <% var title = config.title;
         if (!is_current('/') && page.title) {
@@ -41,9 +41,9 @@
                 <%- body %>
                 <% if (is_current('/')) { %><%- partial("./_partial/sitetop"); %><% } %>
             </div>
+            <footer>
+                Copyright&copy; <%- (new Date()).getFullYear() %> <%- config.author %> / Project RISA. All Rights Reserved.
+            </footer>
         </div>
-        <footer>
-            Copyright&copy; <%- (new Date()).getFullYear() %> <%- config.author %> / Project RISA. All Rights Reserved.
-        </footer>
     </body>
 </html>
