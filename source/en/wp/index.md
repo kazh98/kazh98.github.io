@@ -77,7 +77,10 @@ Mar. 2015
 : The Award for a Graduate with Excellent School Records, Meiji University Alumni Association.
 
 
-## Licenses
+## Licenses and Certifications
+May 2023
+: Book-Keeping Test (2nd class), Nissho, Japan.
+
 Jan. 2023
 : Book-Keeping Test (3rd class), Nissho, Japan.
 
