@@ -78,6 +78,9 @@ Mar. 2015
 
 
 ## Licenses and Certifications
+Jul. 2023
+: Business Management Certification Test, the Tokyo Chamber of Commerce and Industry, Japan.
+
 May 2023
 : Book-Keeping Test (2nd class), Nissho, Japan.
 
