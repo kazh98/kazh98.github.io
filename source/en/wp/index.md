@@ -78,6 +78,9 @@ Mar. 2015
 
 
 ## Licenses and Certifications
+Dec. 2023
+: Database Specialist, Information-technology Promotion Agency (IPA), Japan.
+
 Jul. 2023
 : Business Management Certification Test, the Tokyo Chamber of Commerce and Industry, Japan.
 
